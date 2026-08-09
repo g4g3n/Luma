@@ -118,13 +118,26 @@
   "desc": "Продолжение приключений дяди Фёдора, Матроскина и Шарика. Дядя Фёдор отправляется на каникулы в Простоквашино, где друзей снова ждут забавные приключения.",
   "downloadUrl": "https://dx24.videodownapi.com/mates/en/download?url=ZTREjvNyOeTmi6H194dPXtqUNXa7k%2BDI42d8Si8kV3w0NmyclbT2cstzFk/jlqB6S0ELrXluRsudjo%2BRVHItwgzjGFOZQoc5DqPYbEsEyN6CkFgXi/9KPZD4osHwgFnHSHphPmiNcR%2BigWlciMLcxOJipXf9Isr3tpaYAXllYdtD2CITVx0sesOgCRqCj1KOCGTOXXMJgjDfgNHJb8lNu3iylGz4EpjxfaQXGNPotx74wFXfin/S2aXsK4y%2BvoBOx2aLbhGoD8cSb/xWskUO18IUlzbOq%2BAuemPj08Xf8ng%3D",
   "youtubeId": "jIvPUjMTdHw",
-  "recommended": true,
+  "recommended": false,
   "posterUrl": "https://avatars.mds.yandex.net/get-ott/1648503/2a000001985106b1c1863ae1f2021c5c3ff3/600x900",
   "continue": {
     "leftMin": 0,
     "percent": 0
   }
 },
+
+  { "id": "return_of_the_prodigal_parrot", 
+    "title": "Возвращение блудного попугая", 
+    "omdb": "The Prodigal Parrot", "type": "Мультфильм", 
+    "meta": "1984", 
+    "category": "Мультфильмы", 
+    "gradient": "linear-gradient(135deg,#67a85b,#2f6630)", 
+    "desc": "Попугай Кеша, самоуверенный и очень разговорчивый питомец мальчика Вовки, решает жить самостоятельно. Но поиски лучшей жизни постоянно приводят его к новым приключениям.", 
+    "downloadUrl": "https://dx35.videodownapi.com/mates/en/download?url=ZTREjvNyOeTmi6H194dPXkh6YT5ojXEfiB9QtHLzettAzKYs2jAKWq/rfDAeoxNYBloFf8ooSlZVukhNvn515iqrvrTeq7tzMYltpXG%2BHaebfu0A4sIw1M43P60qYJNtXV0ETGHNgonQ0fWz4TINsUe2KiEQd5mG/b3fjt7jDl2I6gLUXxh6lM8A0GZgo7DNYMPdn5U5EKfMkk0dr3LbKrdTOXgQG78zHTeZFOg8uQYvWVsSv1iC5T%2BRytj0zWU0DWExTB6nMY4b5VJ5vkbLu5jmydwIyogRqxrXEwGfDNrSEeepaxDYDl3VAigl5xMGOxJwoC1AlJ8%3D", 
+    "youtubeId": "clUavlMlvTw", 
+    "recommended": true, 
+    "posterUrl": "https://avatars.mds.yandex.net/get-ott/2439731/2a0000019850ec80085409124e27d66d7428/300x450", 
+    "continue": { "leftMin": 0, "percent": 0 } },
 
 {
   "id": "winter_in_prostokvashino",
@@ -137,7 +150,7 @@
   "desc": "Зимняя история о дяде Фёдоре, Матроскине и Шарике. Герои остаются встречать Новый год в Простоквашино и снова оказываются в центре забавных событий.",
   "downloadUrl": "https://dx32.videodownapi.com/mates/en/download?url=ZTREjvNyOeTmi6H194dPXrQOaRwxdizQFTEAZe3uxCE6HQMxy%2BolpQzjGFOZQoc5DqPYbEsEyN6CkFgXi/9KPZD4osHwgFnHSHphPmiNcR%2BigWlciMLcxOJipXf9Isr3tpaYAXllYdtD2CITVx0sesOgCRqCj1KOCGTOXXMJgjDfgNHJb8lNu3iylGz4EpjxfaQXGNPotx74wFXfin/S2RUoJcoL6H2lVxBbfTH%2BEecSb/xWskUO18IUlzbOq%2BAuemPj08Xf8ng%3D",
   "youtubeId": "HfWQvQ6nX2M",
-  "recommended": true,
+  "recommended": false,
   "posterUrl": "https://avatars.mds.yandex.net/get-ott/2385704/2a0000019853fd602fdbad2d8b5e17d245b3/600x900",
   "continue": {
     "leftMin": 0,
