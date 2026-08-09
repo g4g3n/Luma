@@ -88,5 +88,42 @@
       "leftMin": 10,
       "percent": 0
     }
+  },
+  {
+  "id": "vacation_in_prostokvashino",
+  "title": "Каникулы в Простоквашино",
+  "omdb": "Vacation in Prostokvashino",
+  "type": "Мультфильм",
+  "meta": "1980",
+  "category": "Мультфильмы",
+  "gradient": "linear-gradient(135deg,#e3a94f,#8c4d2d)",
+  "desc": "Продолжение приключений дяди Фёдора, Матроскина и Шарика. Дядя Фёдор отправляется на каникулы в Простоквашино, где друзей снова ждут забавные приключения.",
+  "downloadUrl": "",
+  "youtubeId": "jIvPUjMTdHw",
+  "recommended": true,
+  "posterUrl": "https://avatars.mds.yandex.net/get-ott/1648503/2a000001985106b1c1863ae1f2021c5c3ff3/600x900",
+  "continue": {
+    "leftMin": 0,
+    "percent": 0
   }
+},
+
+{
+  "id": "winter_in_prostokvashino",
+  "title": "Зима в Простоквашино",
+  "omdb": "Winter in Prostokvashino",
+  "type": "Мультфильм",
+  "meta": "1984",
+  "category": "Мультфильмы",
+  "gradient": "linear-gradient(135deg,#8eb8d8,#315b7d)",
+  "desc": "Зимняя история о дяде Фёдоре, Матроскине и Шарике. Герои остаются встречать Новый год в Простоквашино и снова оказываются в центре забавных событий.",
+  "downloadUrl": "",
+  "youtubeId": "HfWQvQ6nX2M",
+  "recommended": true,
+  "posterUrl": "https://avatars.mds.yandex.net/get-ott/2385704/2a0000019853fd602fdbad2d8b5e17d245b3/600x900",
+  "continue": {
+    "leftMin": 0,
+    "percent": 0
+  }
+}
 ]
