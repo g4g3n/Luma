@@ -79,10 +79,10 @@ const contentData = [
       category: 'Мультфильмы',
       gradient: 'linear-gradient(135deg,#e0a940,#8a5a12)',
       desc: 'Первая серия. Плюшевый медвежонок Винни-Пух живёт в лесу, поёт песенки и ищет мёд вместе с Пятачком.',
-      downloadUrl: 'https://example.com/download/vinni_puh_1.mp4',
-      youtubeId: 'XXXXXXXXXXX',
+      downloadUrl: 'https://dx32.videodownapi.com/mates/en/download?url=ZTREjvNyOeTmi6H194dPXpV8tlPTzSo142d8Si8kV3zDoAkago9SjirHCBXNuuLRg7KTD%2BaI7lN5bo3kicWMoGp01wwov0ciL6MhZJ9zOxAz8W1C5lIFD5p2qJ9AB%2Bwmt1j0CrqpRxZiUF7hawW2F52Ohs7v0ZNXQy5R0zPEO04LOxuQGmKmS5lqAgqDNqXg',
+      youtubeId: 'cmOCejUFAqA',
       recommended: true,
-      posterUrl: 'https://avatars.mds.yandex.net/get-ott/placeholder/vinni_puh_1/600x900',
+      posterUrl: 'https://avatars.mds.yandex.net/get-ott/212840/2a0000017924c40001af18f2bc558b3c7666/600x900',
       continue: { leftMin: 10, percent: 0 }
     },
     {
@@ -94,10 +94,10 @@ const contentData = [
       category: 'Мультфильмы',
       gradient: 'linear-gradient(135deg,#e0a940,#8a5a12)',
       desc: 'Вторая серия. Винни-Пух идёт в гости к Кролику, съедает весь мед и застревает в норе.',
-      downloadUrl: 'https://example.com/download/vinni_puh_2.mp4',
-      youtubeId: 'YYYYYYYYYYY',
+      downloadUrl: 'https://dx2.videodownapi.com/mates/en/download?url=ZTREjvNyOeTmi6H194dPXpV8tlPTzSo142d8Si8kV3zDoAkago9SjoxH0en6iW34g7KTD%2BaI7lOaWxbcsPIkqDQ2bJyVtPZyD26mMLYDG7PacMpgn%2BstEsdrXbsZJMB9MusdUop9ICd8EVko5r/Xfc9LY2J4rDDxZ%2BzQMgjehFFAw0UsfjxyRt%2BA0clvyU27eLKUbPgSmPF9pBcY0%2Bi3HvjAVd%2BKf9LZa4aLsZk7b9y0oRhevnzBaxJv/FayRQ7XwhSXNs6r4C56Y%2BPTxd/yeA%3D%3D',
+      youtubeId: 'se2Q0i1f6Rw',
       recommended: true,
-      posterUrl: 'https://avatars.mds.yandex.net/get-ott/placeholder/vinni_puh_2/600x900',
+      posterUrl: 'https://avatars.mds.yandex.net/get-ott/200035/2a0000019851e0c7d872f2051fa445bd00a2/600x900',
       continue: { leftMin: 10, percent: 0 }
     },
     {
@@ -109,10 +109,10 @@ const contentData = [
       category: 'Мультфильмы',
       gradient: 'linear-gradient(135deg,#e0a940,#8a5a12)',
       desc: 'Третья серия. Винни-Пух и Пятачок спасают Иа-Иа от падения в пропасть и устраивают праздник.',
-      downloadUrl: 'https://example.com/download/vinni_puh_3.mp4',
-      youtubeId: 'ZZZZZZZZZZZ',
+      downloadUrl: 'https://dx21.videodownapi.com/mates/en/download?url=ZTREjvNyOeTmi6H194dPXpV8tlPTzSo142d8Si8kV3zDoAkago9SjoxH0en6iW34g7KTD%2BaI7lOaWxbcsPIkqEfZkEy7YI/qat0tQpSFNyYRMnXxeVpMMe4SvPVd82hFSSQBsQWXGNlJHYPytoM6H4KQWBeL/0o9ht8SoxyT9b009rTokCUhXWEJfBMErQiv2gF18gcZq/hO5coScFHLB9t5EdKqNICeqOndxUCZhhDSEeepaxDYDl3VAigl5xMGOxJwoC1AlJ8%3D',
+      youtubeId: 'wQqZOnR0Tho',
       recommended: true,
-      posterUrl: 'https://avatars.mds.yandex.net/get-ott/placeholder/vinni_puh_3/600x900',
+      posterUrl: 'https://avatars.mds.yandex.net/get-ott/2419418/2a000001725a8f10202b3c1f61509d8c383b/600x900',
       continue: { leftMin: 10, percent: 0 }
     },
 ];
