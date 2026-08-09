@@ -72,6 +72,24 @@
     }
   },
   {
+  "id": "three_from_prostokvashino",
+  "title": "Трое из Простоквашино",
+  "omdb": "Three from Prostokvashino",
+  "type": "Мультфильм",
+  "meta": "1978",
+  "category": "Мультфильмы",
+  "gradient": "linear-gradient(135deg,#d99a4a,#70472c)",
+  "desc": "Дядя Фёдор решает уйти из дома и отправляется в деревню Простоквашино. Вместе с котом Матроскиным и псом Шариком он начинает новую жизнь, полную приключений.",
+  "downloadUrl": "https://dx22.videodownapi.com/mates/en/download?url=ZTREjvNyOeRunIdtq/WfBa8TrCqPJ32pgpBYF4v/Sj248vT/FTmRP4EcNWfi9TWPxWTGcI2E8gW4a1xiA94WaVioTmP5Ul0wGYPhF6giZB2CkFgXi/9KPUcBwcQZ9ze3UHNjRXAnIlYhHGIN3/q0FjQ2bJyVtPZyPx%2BFKtaK36kWPFkovhA3od%2BA0clvyU27eLKUbPgSmPF9pBcY0%2Bi3HvjAVd%2BKf9LZdV8W5zuQoQztoBVj7/qvNRiv5zDM2xq4XdUCKCXnEwY7EnCgLUCUnw%3D%3D",
+  "youtubeId": "k4YWgbv02Io",
+  "recommended": true,
+  "posterUrl": "https://avatars.mds.yandex.net/get-ott/1648503/2a000001985473c31917c927c6fe757ccdec/600x900",
+  "continue": {
+    "leftMin": 0,
+    "percent": 0
+  }
+},
+  {
     "id": "vinni_puh_3",
     "title": "Винни-Пух и день забот",
     "omdb": "Winnie the Pooh and the Day of Concern",
