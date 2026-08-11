@@ -634,7 +634,7 @@
     "title": "Вперёд",
     "type": "Мультфильм",
     "category": "Мультфильмы",
-    "kinopoiskId": null,
+    "kinopoiskId": 1080513,
     "meta": "2020 · полнометражный",
     "director": "Дэн Скэнлон",
     "desc": "«Вперёд» — признанная классика анимации 2020 года. История с яркими героями, приключениями и добрым посылом.",
@@ -709,7 +709,7 @@
     "director": "Роджер Аллерс, Роб Минкофф",
     "desc": "«Король Лев» — признанная классика анимации 1994 года. История с яркими героями, приключениями и добрым посылом.",
     "recommended": true,
-    "posterUrl": "https://st.kp.yandex.net/images/film_2360.jpg",
+    "posterUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/60aa1abc-b754-4817-ad9c-0bcda427a12b/300x450",
     "gradient": "linear-gradient(135deg,#d78d4d,#8f5322)",
     "yandexLink": ""
   },
@@ -723,7 +723,7 @@
     "director": "Гари Труздейл, Кирк Уайз",
     "desc": "«Красавица и чудовище» — признанная классика анимации 1991 года. История с яркими героями, приключениями и добрым посылом.",
     "recommended": true,
-    "posterUrl": "https://st.kp.yandex.net/images/film_540.jpg",
+    "posterUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/ed078f6d-65a8-4c2c-a8df-aba6383b841f/300x450",
     "gradient": "linear-gradient(135deg,#67a85b,#2f6630)",
     "yandexLink": ""
   },
@@ -737,7 +737,7 @@
     "director": "Рон Клементс, Джон Маскер",
     "desc": "«Аладдин» — признанная классика анимации 1992 года. История с яркими героями, приключениями и добрым посылом.",
     "recommended": true,
-    "posterUrl": "https://st.kp.yandex.net/images/film_2361.jpg",
+    "posterUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/60add1e1-d3ae-4e5c-af67-4fdabadb40ac/300x450",
     "gradient": "linear-gradient(135deg,#8b72b8,#49366d)",
     "yandexLink": ""
   },
@@ -751,7 +751,7 @@
     "director": "Тони Бэнкрофт, Барри Кук",
     "desc": "«Мулан» — признанная классика анимации 1998 года. История с яркими героями, приключениями и добрым посылом.",
     "recommended": true,
-    "posterUrl": "https://st.kp.yandex.net/images/film_5277.jpg",
+    "posterUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/10853012/4ab03792-b90d-47a3-b585-bbe3b2d39af8/300x450",
     "gradient": "linear-gradient(135deg,#d96b62,#7e302b)",
     "yandexLink": ""
   },
@@ -760,12 +760,12 @@
     "title": "Тарзан",
     "type": "Мультфильм",
     "category": "Мультфильмы",
-    "kinopoiskId": null,
+    "kinopoiskId": 2260,
     "meta": "1999 · полнометражный",
     "director": "Крис Бак, Кевин Лима",
     "desc": "«Тарзан» — признанная классика анимации 1999 года. История с яркими героями, приключениями и добрым посылом.",
     "recommended": true,
-    "posterUrl": "",
+    "posterUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/9c030cac-b937-4006-9edf-949e4a0f786f/300x450",
     "gradient": "linear-gradient(135deg,#5c9aa3,#285d66)",
     "yandexLink": ""
   },
@@ -774,12 +774,12 @@
     "title": "Геркулес",
     "type": "Мультфильм",
     "category": "Мультфильмы",
-    "kinopoiskId": null,
+    "kinopoiskId": 2357,
     "meta": "1997 · полнометражный",
     "director": "Рон Клементс, Джон Маскер",
     "desc": "«Геркулес» — признанная классика анимации 1997 года. История с яркими героями, приключениями и добрым посылом.",
     "recommended": true,
-    "posterUrl": "",
+    "posterUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/9784475/5a125270-6b5f-4060-a260-86ba5f2dce9e/300x450",
     "gradient": "linear-gradient(135deg,#d0a44b,#73531c)",
     "yandexLink": ""
   },
@@ -793,7 +793,7 @@
     "director": "Дин ДеБлуа, Крис Сандерс",
     "desc": "«Лило и Стич» — признанная классика анимации 2002 года. История с яркими героями, приключениями и добрым посылом.",
     "recommended": true,
-    "posterUrl": "https://st.kp.yandex.net/images/film_740.jpg",
+    "posterUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/4303601/ab295c60-9fa4-4fe4-9be5-a6f33ead2071/300x450",
     "gradient": "linear-gradient(135deg,#4e88c7,#1f4f7f)",
     "yandexLink": ""
   },
@@ -807,7 +807,7 @@
     "director": "Рон Клементс, Джон Маскер, Дон Холл, Крис Уильямс",
     "desc": "«Моана» — признанная классика анимации 2016 года. История с яркими героями, приключениями и добрым посылом.",
     "recommended": true,
-    "posterUrl": "https://st.kp.yandex.net/images/film_837530.jpg",
+    "posterUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f06aa25d-2f76-4bac-8d12-29436fd589bc/300x450",
     "gradient": "linear-gradient(135deg,#d78d4d,#8f5322)",
     "yandexLink": ""
   },
@@ -821,7 +821,7 @@
     "director": "Нэйтан Грено, Байрон Ховард",
     "desc": "«Рапунцель» — признанная классика анимации 2010 года. История с яркими героями, приключениями и добрым посылом.",
     "recommended": true,
-    "posterUrl": "https://st.kp.yandex.net/images/film_84049.jpg",
+    "posterUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/4303601/780ecf39-c5d5-482f-bf27-d51d6f8055fb/300x450",
     "gradient": "linear-gradient(135deg,#67a85b,#2f6630)",
     "yandexLink": ""
   },
@@ -835,7 +835,7 @@
     "director": "Крис Бак, Дженнифер Ли",
     "desc": "«Холодное сердце» — признанная классика анимации 2013 года. История с яркими героями, приключениями и добрым посылом.",
     "recommended": true,
-    "posterUrl": "https://st.kp.yandex.net/images/film_493208.jpg",
+    "posterUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/efa923ca-2007-4a79-b759-377fc1a5664f/300x450",
     "gradient": "linear-gradient(135deg,#8b72b8,#49366d)",
     "yandexLink": ""
   },
@@ -849,7 +849,7 @@
     "director": "Вольфганг Райтерман, Дэвид Хэнд",
     "desc": "«Робин Гуд» — признанная классика анимации 1973 года. История с яркими героями, приключениями и добрым посылом.",
     "recommended": true,
-    "posterUrl": "https://st.kp.yandex.net/images/film_17579.jpg",
+    "posterUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/ba2f669f-1a65-4e28-9dd6-ef97e4ae1fb8/300x450",
     "gradient": "linear-gradient(135deg,#d96b62,#7e302b)",
     "yandexLink": ""
   },
@@ -863,7 +863,7 @@
     "director": "Вольфганг Райтерман",
     "desc": "«Книга джунглей» — признанная классика анимации 1967 года. История с яркими героями, приключениями и добрым посылом.",
     "recommended": true,
-    "posterUrl": "https://st.kp.yandex.net/images/film_8133.jpg",
+    "posterUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/cd3d8593-9bf8-48cb-a427-01d340351262/300x450",
     "gradient": "linear-gradient(135deg,#5c9aa3,#285d66)",
     "yandexLink": ""
   },
@@ -877,7 +877,7 @@
     "director": "Клайд Джероними, Хэмилтон Ласк, Вольфганг Райтерман",
     "desc": "«101 далматинец» — признанная классика анимации 1961 года. История с яркими героями, приключениями и добрым посылом.",
     "recommended": true,
-    "posterUrl": "https://st.kp.yandex.net/images/film_8129.jpg",
+    "posterUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1898899/c23d2777-2ce5-4be3-8a5d-2ef7eea8c2cc/300x450",
     "gradient": "linear-gradient(135deg,#d0a44b,#73531c)",
     "yandexLink": ""
   },
@@ -891,7 +891,7 @@
     "director": "Клайд Джероними, Уилфред Джексон, Хэмилтон Ласк",
     "desc": "«Питер Пэн» — признанная классика анимации 1953 года. История с яркими героями, приключениями и добрым посылом.",
     "recommended": true,
-    "posterUrl": "",
+    "posterUrl": "https://avatars.mds.yandex.net/get-ott/212840/2a0000019851bacef41380042c67a7553b4e/300x450",
     "gradient": "linear-gradient(135deg,#4e88c7,#1f4f7f)",
     "yandexLink": ""
   },
@@ -905,7 +905,7 @@
     "director": "Бен Шарпстин, Хэмилтон Ласк",
     "desc": "«Пиноккио» — признанная классика анимации 1940 года. История с яркими героями, приключениями и добрым посылом.",
     "recommended": true,
-    "posterUrl": "",
+    "posterUrl": "https://avatars.mds.yandex.net/get-ott/374297/2a0000019852fe554fdd992ebccde137199a/300x450",
     "gradient": "linear-gradient(135deg,#d78d4d,#8f5322)",
     "yandexLink": ""
   },
@@ -919,7 +919,7 @@
     "director": "Дэвид Хэнд",
     "desc": "«Бэмби» — признанная классика анимации 1942 года. История с яркими героями, приключениями и добрым посылом.",
     "recommended": true,
-    "posterUrl": "",
+    "posterUrl": "https://avatars.mds.yandex.net/get-ott/236744/2a000001985121b883865e295941821fcac9/300x450",
     "gradient": "linear-gradient(135deg,#67a85b,#2f6630)",
     "yandexLink": ""
   },
@@ -933,7 +933,7 @@
     "director": "Уилфред Джексон, Хэмилтон Ласк, Клайд Джероними",
     "desc": "«Золушка» — признанная классика анимации 1950 года. История с яркими героями, приключениями и добрым посылом.",
     "recommended": true,
-    "posterUrl": "",
+    "posterUrl": "https://avatars.mds.yandex.net/get-ott/13051577/2a000001985484a42882e266c3587312eab9/300x450",
     "gradient": "linear-gradient(135deg,#8b72b8,#49366d)",
     "yandexLink": ""
   },
@@ -947,7 +947,7 @@
     "director": "Клайд Джероними",
     "desc": "«Спящая красавица» — признанная классика анимации 1959 года. История с яркими героями, приключениями и добрым посылом.",
     "recommended": true,
-    "posterUrl": "",
+    "posterUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/d5dbb074-9311-4aa8-a9e9-595a15ab335c/300x450",
     "gradient": "linear-gradient(135deg,#d96b62,#7e302b)",
     "yandexLink": ""
   },
@@ -961,7 +961,7 @@
     "director": "Дэвид Хэнд",
     "desc": "«Белоснежка и семь гномов» — признанная классика анимации 1937 года. История с яркими героями, приключениями и добрым посылом.",
     "recommended": true,
-    "posterUrl": "",
+    "posterUrl": "https://avatars.mds.yandex.net/get-ott/1534341/2a00000198527144869beea8a0cbfeb3c73b/300x450",
     "gradient": "linear-gradient(135deg,#5c9aa3,#285d66)",
     "yandexLink": ""
   },
@@ -975,7 +975,7 @@
     "director": "Рон Клементс, Джон Маскер",
     "desc": "«Принцесса и лягушка» — признанная классика анимации 2009 года. История с яркими героями, приключениями и добрым посылом.",
     "recommended": true,
-    "posterUrl": "",
+    "posterUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/70572233-ab4f-4c1a-9c03-4593855a3cac/300x450",
     "gradient": "linear-gradient(135deg,#d0a44b,#73531c)",
     "yandexLink": ""
   },
@@ -989,7 +989,7 @@
     "director": "Эндрю Адамсон, Вики Дженсон",
     "desc": "Одинокий огр Шрек отправляется спасать принцессу и неожиданно находит друзей, любовь и новую семью.",
     "recommended": true,
-    "posterUrl": "",
+    "posterUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/7ade06a8-4178-4386-9ee2-87fec5a172eb/300x450",
     "gradient": "linear-gradient(135deg,#4e88c7,#1f4f7f)",
     "yandexLink": ""
   },
@@ -1003,7 +1003,7 @@
     "director": "Эндрю Адамсон, Келли Эсбёри, Конрад Вернон",
     "desc": "«Шрек 2» — признанная классика анимации 2004 года. История с яркими героями, приключениями и добрым посылом.",
     "recommended": false,
-    "posterUrl": "",
+    "posterUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/27a3c989-e883-40f3-806f-f3ef27fe7177/300x450",
     "gradient": "linear-gradient(135deg,#d78d4d,#8f5322)",
     "yandexLink": ""
   },
@@ -1017,7 +1017,7 @@
     "director": "Крис Сандерс, Дин ДеБлуа",
     "desc": "Юный викинг Иккинг подружился с драконом Беззубиком и доказал, что понимание важнее страха и силы.",
     "recommended": true,
-    "posterUrl": "https://st.kp.yandex.net/images/film_280172.jpg",
+    "posterUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/4774061/1a920451-e765-41e9-81aa-78438e82abbc/300x450",
     "gradient": "linear-gradient(135deg,#67a85b,#2f6630)",
     "yandexLink": ""
   },
@@ -1031,7 +1031,7 @@
     "director": "Дин ДеБлуа",
     "desc": "«Как приручить дракона 2» — признанная классика анимации 2014 года. История с яркими героями, приключениями и добрым посылом.",
     "recommended": false,
-    "posterUrl": "",
+    "posterUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/929283bf-9ae9-422f-9ac2-edf5d3e16aea/300x450",
     "gradient": "linear-gradient(135deg,#8b72b8,#49366d)",
     "yandexLink": ""
   },
@@ -1045,7 +1045,7 @@
     "director": "Дин ДеБлуа",
     "desc": "«Как приручить дракона 3» — признанная классика анимации 2019 года. История с яркими героями, приключениями и добрым посылом.",
     "recommended": false,
-    "posterUrl": "",
+    "posterUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/6fd80e9f-ee41-470a-a487-3730f7ded41c/300x450",
     "gradient": "linear-gradient(135deg,#d96b62,#7e302b)",
     "yandexLink": ""
   },
@@ -1059,7 +1059,7 @@
     "director": "Марк Осборн, Джон Стивенсон",
     "desc": "«Кунг-фу Панда» — признанная классика анимации 2008 года. История с яркими героями, приключениями и добрым посылом.",
     "recommended": true,
-    "posterUrl": "",
+    "posterUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/a9c4698d-7eea-4fe8-8624-4c536c09f7fd/300x450",
     "gradient": "linear-gradient(135deg,#5c9aa3,#285d66)",
     "yandexLink": ""
   },
@@ -1073,7 +1073,7 @@
     "director": "Дженнифер Ю",
     "desc": "«Кунг-фу Панда 2» — признанная классика анимации 2011 года. История с яркими героями, приключениями и добрым посылом.",
     "recommended": false,
-    "posterUrl": "",
+    "posterUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1898899/6f8602bd-3058-40f2-911b-e16b68a634b6/300x450",
     "gradient": "linear-gradient(135deg,#d0a44b,#73531c)",
     "yandexLink": ""
   },
@@ -1087,7 +1087,7 @@
     "director": "Алессандро Карлони, Дженнифер Ю",
     "desc": "«Кунг-фу Панда 3» — признанная классика анимации 2016 года. История с яркими героями, приключениями и добрым посылом.",
     "recommended": false,
-    "posterUrl": "",
+    "posterUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/52d6e21c-68d2-44eb-80b3-ed572c7bdc85/300x450",
     "gradient": "linear-gradient(135deg,#4e88c7,#1f4f7f)",
     "yandexLink": ""
   },
@@ -1101,7 +1101,7 @@
     "director": "Бренда Чепмен, Стив Хикнер, Саймон Уэллс",
     "desc": "«Принц Египта» — признанная классика анимации 1998 года. История с яркими героями, приключениями и добрым посылом.",
     "recommended": true,
-    "posterUrl": "",
+    "posterUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/8b0ed9e8-700e-478f-a161-a2cd054272b0/300x450",
     "gradient": "linear-gradient(135deg,#d78d4d,#8f5322)",
     "yandexLink": ""
   },
@@ -1115,7 +1115,7 @@
     "director": "Бибо Бержерон, Уилл Финн, Дон Пол",
     "desc": "«Дорога на Эльдорадо» — признанная классика анимации 2000 года. История с яркими героями, приключениями и добрым посылом.",
     "recommended": true,
-    "posterUrl": "",
+    "posterUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/4716873/282f675d-5b20-4464-8c37-3d2d343265b4/300x450",
     "gradient": "linear-gradient(135deg,#67a85b,#2f6630)",
     "yandexLink": ""
   },
@@ -1129,7 +1129,7 @@
     "director": "Питер Лорд, Ник Парк",
     "desc": "Курицы на ферме планируют дерзкий побег, пока хозяева готовят для них весьма неприятный сюрприз.",
     "recommended": true,
-    "posterUrl": "",
+    "posterUrl": "https://avatars.mds.yandex.net/get-ott/12808873/2a0000019852fcfcd878779e0936aad67111/300x450",
     "gradient": "linear-gradient(135deg,#8b72b8,#49366d)",
     "yandexLink": ""
   },
@@ -1143,7 +1143,7 @@
     "director": "Питер Рэмзи",
     "desc": "«Хранители снов» — признанная классика анимации 2012 года. История с яркими героями, приключениями и добрым посылом.",
     "recommended": true,
-    "posterUrl": "",
+    "posterUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/c6d5650b-1c39-4946-86f8-460220ee1949/300x450",
     "gradient": "linear-gradient(135deg,#d96b62,#7e302b)",
     "yandexLink": ""
   },
@@ -1157,7 +1157,7 @@
     "director": "Эрик Дарнелл, Том МакГрат",
     "desc": "«Мадагаскар» — признанная классика анимации 2005 года. История с яркими героями, приключениями и добрым посылом.",
     "recommended": true,
-    "posterUrl": "",
+    "posterUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/4774061/ce4b0f97-4811-47ea-b3f1-dfc3395f7849/300x450",
     "gradient": "linear-gradient(135deg,#5c9aa3,#285d66)",
     "yandexLink": ""
   },
@@ -1171,7 +1171,7 @@
     "director": "Эрик Дарнелл, Том МакГрат",
     "desc": "«Мадагаскар 2» — признанная классика анимации 2008 года. История с яркими героями, приключениями и добрым посылом.",
     "recommended": false,
-    "posterUrl": "",
+    "posterUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/5a832bd5-387f-4ff0-ae1e-34bd09d0446d/300x450",
     "gradient": "linear-gradient(135deg,#d0a44b,#73531c)",
     "yandexLink": ""
   },
@@ -1185,7 +1185,7 @@
     "director": "Эрик Дарнелл, Том МакГрат, Конрад Вернон",
     "desc": "«Мадагаскар 3» — признанная классика анимации 2012 года. История с яркими героями, приключениями и добрым посылом.",
     "recommended": false,
-    "posterUrl": "",
+    "posterUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/133fbdba-b2cb-40ec-acbc-6a2471b1ad56/300x450",
     "gradient": "linear-gradient(135deg,#4e88c7,#1f4f7f)",
     "yandexLink": ""
   },
@@ -1199,7 +1199,7 @@
     "director": "Хаяо Миядзаки",
     "desc": "Две сестры переезжают в деревню и знакомятся с добрым духом леса Тоторо. Тёплая история о детстве, семье и чуде.",
     "recommended": true,
-    "posterUrl": "https://st.kp.yandex.net/images/film_8221.jpg",
+    "posterUrl": "https://avatars.mds.yandex.net/get-ott/13051577/2a0000019852fd4dca1f385edf82bcca01aa/300x450",
     "gradient": "linear-gradient(135deg,#d78d4d,#8f5322)",
     "yandexLink": ""
   },
@@ -1213,7 +1213,7 @@
     "director": "Хаяо Миядзаки",
     "desc": "Девочка Чихиро попадает в загадочный мир духов и должна найти способ вернуть родителей и выбраться домой.",
     "recommended": true,
-    "posterUrl": "",
+    "posterUrl": "https://avatars.mds.yandex.net/get-ott/12808873/2a000001985422c51cb8ceaef80c93afb63c/300x450",
     "gradient": "linear-gradient(135deg,#67a85b,#2f6630)",
     "yandexLink": ""
   },
@@ -1227,7 +1227,7 @@
     "director": "Хаяо Миядзаки",
     "desc": "Юная Софи оказывается под заклятием и находит убежище в загадочном ходячем замке волшебника Хаула.",
     "recommended": true,
-    "posterUrl": "",
+    "posterUrl": "https://avatars.mds.yandex.net/get-ott/2439731/2a0000019853b66fa6fc754e3f373738851f/300x450",
     "gradient": "linear-gradient(135deg,#8b72b8,#49366d)",
     "yandexLink": ""
   },
@@ -1241,7 +1241,7 @@
     "director": "Хаяо Миядзаки",
     "desc": "«Ведьмина служба доставки» — признанная классика анимации 1989 года. История с яркими героями, приключениями и добрым посылом.",
     "recommended": true,
-    "posterUrl": "",
+    "posterUrl": "https://avatars.mds.yandex.net/get-ott/236744/2a0000019851c702e6bbff32478249091be5/300x450",
     "gradient": "linear-gradient(135deg,#d96b62,#7e302b)",
     "yandexLink": ""
   },
@@ -1255,7 +1255,7 @@
     "director": "Хаяо Миядзаки",
     "desc": "«Рыбка Поньо» — признанная классика анимации 2008 года. История с яркими героями, приключениями и добрым посылом.",
     "recommended": true,
-    "posterUrl": "",
+    "posterUrl": "https://avatars.mds.yandex.net/get-ott/1648503/2a00000198549b4213e224faa3b366a8e642/300x450",
     "gradient": "linear-gradient(135deg,#5c9aa3,#285d66)",
     "yandexLink": ""
   },
@@ -1269,7 +1269,7 @@
     "director": "Ёсифуми Кондо",
     "desc": "«Шёпот сердца» — признанная классика анимации 1995 года. История с яркими героями, приключениями и добрым посылом.",
     "recommended": true,
-    "posterUrl": "",
+    "posterUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/4486454/c1651196-6159-4c08-9226-c39d73368378/300x450",
     "gradient": "linear-gradient(135deg,#d0a44b,#73531c)",
     "yandexLink": ""
   },
@@ -1297,7 +1297,7 @@
     "director": "Хаяо Миядзаки",
     "desc": "«Навсикая из Долины ветров» — признанная классика анимации 1984 года. История с яркими героями, приключениями и добрым посылом.",
     "recommended": true,
-    "posterUrl": "",
+    "posterUrl": "https://avatars.mds.yandex.net/get-ott/212840/2a000001985233eecd22e64187baefaecaea/300x450",
     "gradient": "linear-gradient(135deg,#d78d4d,#8f5322)",
     "yandexLink": ""
   },
@@ -1311,7 +1311,7 @@
     "director": "Хаяо Миядзаки",
     "desc": "«Принцесса Мононоке» — признанная классика анимации 1997 года. История с яркими героями, приключениями и добрым посылом.",
     "recommended": true,
-    "posterUrl": "",
+    "posterUrl": "https://avatars.mds.yandex.net/get-ott/2385704/2a0000019854f309db28df0685cc69c80419/300x450",
     "gradient": "linear-gradient(135deg,#67a85b,#2f6630)",
     "yandexLink": ""
   },
@@ -1325,7 +1325,7 @@
     "director": "Горо Миядзаки",
     "desc": "«Со склонов Кокурико» — признанная классика анимации 2011 года. История с яркими героями, приключениями и добрым посылом.",
     "recommended": true,
-    "posterUrl": "",
+    "posterUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/319df908-df35-47d9-bded-0d81e9693044/300x450",
     "gradient": "linear-gradient(135deg,#8b72b8,#49366d)",
     "yandexLink": ""
   },
@@ -1339,22 +1339,8 @@
     "director": "Хаяо Миядзаки",
     "desc": "«Ветер крепчает» — признанная классика анимации 2013 года. История с яркими героями, приключениями и добрым посылом.",
     "recommended": true,
-    "posterUrl": "",
+    "posterUrl": "https://avatars.mds.yandex.net/get-ott/374297/2a00000198540683957a8a6c3c363db5aa5d/300x450",
     "gradient": "linear-gradient(135deg,#d96b62,#7e302b)",
-    "yandexLink": ""
-  },
-  {
-    "id": "когда_здесь_была_марни",
-    "title": "Когда здесь была Марни",
-    "type": "Мультфильм",
-    "category": "Мультфильмы",
-    "kinopoiskId": null,
-    "meta": "2014 · полнометражный",
-    "director": "Хиромаса Ёнэбаяси",
-    "desc": "«Когда здесь была Марни» — признанная классика анимации 2014 года. История с яркими героями, приключениями и добрым посылом.",
-    "recommended": true,
-    "posterUrl": "",
-    "gradient": "linear-gradient(135deg,#5c9aa3,#285d66)",
     "yandexLink": ""
   },
   {
@@ -1367,7 +1353,7 @@
     "director": "Хаяо Миядзаки",
     "desc": "«Мальчик и птица» — признанная классика анимации 2023 года. История с яркими героями, приключениями и добрым посылом.",
     "recommended": true,
-    "posterUrl": "",
+    "posterUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/10893610/48abdb66-99a3-47ad-96d5-d8c47ed600a6/1920x",
     "gradient": "linear-gradient(135deg,#d0a44b,#73531c)",
     "yandexLink": ""
   },
@@ -1381,7 +1367,7 @@
     "director": "Томм Мур",
     "desc": "Бен и его сестра Сирша отправляются в путешествие, чтобы раскрыть тайну своей семьи и спасти волшебный мир.",
     "recommended": true,
-    "posterUrl": "",
+    "posterUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/4303601/5c11fd2a-17da-48d3-b7e5-97a54a8fc0a9/300x450",
     "gradient": "linear-gradient(135deg,#4e88c7,#1f4f7f)",
     "yandexLink": ""
   },
@@ -1395,7 +1381,7 @@
     "director": "Томм Мур, Нора Твоми",
     "desc": "Юный Брендан живёт в монастыре и помогает завершить загадочную книгу, сталкиваясь с опасностями и чудесами.",
     "recommended": true,
-    "posterUrl": "",
+    "posterUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/4483445/8ee0ac16-45b0-4c1d-a7b5-b2daf4e05236/300x450",
     "gradient": "linear-gradient(135deg,#d78d4d,#8f5322)",
     "yandexLink": ""
   },
@@ -1409,7 +1395,7 @@
     "director": "Томм Мур, Росс Стюарт",
     "desc": "Юная охотница Робин знакомится с девочкой-волчицей и начинает сомневаться в привычных представлениях о лесных духах.",
     "recommended": true,
-    "posterUrl": "",
+    "posterUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/eb67263e-0e72-4b92-88ec-4a7bc56d68fb/300x450",
     "gradient": "linear-gradient(135deg,#67a85b,#2f6630)",
     "yandexLink": ""
   },
@@ -1423,7 +1409,7 @@
     "director": "Стефан Обье, Венсан Патар, Бенжамен Реннер",
     "desc": "Маленькая мышка Селестина и медведь Эрнест становятся друзьями, несмотря на правила, разделяющие их миры.",
     "recommended": true,
-    "posterUrl": "",
+    "posterUrl": "https://avatars.mds.yandex.net/get-ott/1648503/2a0000019851db12dc0aad88a7480af312b5/300x450",
     "gradient": "linear-gradient(135deg,#8b72b8,#49366d)",
     "yandexLink": ""
   },
@@ -1437,7 +1423,7 @@
     "director": "Сильвен Шоме",
     "desc": "Молчаливый мальчик, его бабушка и необычная певческая троица отправляются на поиски пропавшего велосипедиста.",
     "recommended": true,
-    "posterUrl": "",
+    "posterUrl": "https://avatars.mds.yandex.net/get-ott/13051577/2a00000195ffe90a42209801fd9f28c480f8/300x450",
     "gradient": "linear-gradient(135deg,#d96b62,#7e302b)",
     "yandexLink": ""
   },
@@ -1451,7 +1437,7 @@
     "director": "Сильвен Шоме",
     "desc": "Стареющий иллюзионист путешествует по Европе и встречает юную девушку, которая принимает его за настоящего волшебника.",
     "recommended": true,
-    "posterUrl": "",
+    "posterUrl": "https://avatars.mds.yandex.net/get-ott/2439731/2a0000019b08c08aedf81bdb1b282b21180a/300x450",
     "gradient": "linear-gradient(135deg,#5c9aa3,#285d66)",
     "yandexLink": ""
   },
@@ -1465,7 +1451,7 @@
     "director": "Клод Баррас",
     "desc": "Мальчик по прозвищу Кабачок попадает в детский дом и постепенно учится доверять людям, дружить и снова радоваться жизни.",
     "recommended": true,
-    "posterUrl": "",
+    "posterUrl": "https://avatars.mds.yandex.net/get-ott/1672343/2a000001985475c26d19167e3b68c43c8f11/300x450",
     "gradient": "linear-gradient(135deg,#d0a44b,#73531c)",
     "yandexLink": ""
   },
@@ -1479,7 +1465,7 @@
     "director": "Марк Бёртон, Ричард Старзак",
     "desc": "На ферме спокойная жизнь постоянно превращается в цепочку безумных приключений, когда Шон и его стадо остаются без присмотра.",
     "recommended": true,
-    "posterUrl": "",
+    "posterUrl": "https://avatars.mds.yandex.net/get-ott/13051577/2a00000198529abb1486d374ea8d729cc0d9/300x450",
     "gradient": "linear-gradient(135deg,#4e88c7,#1f4f7f)",
     "yandexLink": ""
   },
@@ -1493,7 +1479,7 @@
     "director": "Ник Парк, Стив Бокс",
     "desc": "«Уоллес и Громит: Проклятие кролика-оборотня» — признанная классика анимации 2005 года. История с яркими героями, приключениями и добрым посылом.",
     "recommended": true,
-    "posterUrl": "",
+    "posterUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/2adebb0f-58fd-4b2b-9674-285a3ca40526/300x450",
     "gradient": "linear-gradient(135deg,#d78d4d,#8f5322)",
     "yandexLink": ""
   },
@@ -1507,7 +1493,7 @@
     "director": "Сэм Фелл, Джефф Ньюитт",
     "desc": "Уоллес и Громит расследуют загадочные преступления, связанные с пекарнями и подозрительным новым знакомством.",
     "recommended": true,
-    "posterUrl": "",
+    "posterUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/ac79f9ca-3ae4-4fca-89ac-3348702113ef/300x450",
     "gradient": "linear-gradient(135deg,#67a85b,#2f6630)",
     "yandexLink": ""
   },
@@ -1521,22 +1507,8 @@
     "director": "Ник Парк",
     "desc": "Уоллес изобретает механические штаны, но его новый квартирант оказывается не тем, за кого себя выдаёт.",
     "recommended": true,
-    "posterUrl": "",
+    "posterUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/cd887b27-283a-4747-8300-f12979906519/300x450",
     "gradient": "linear-gradient(135deg,#8b72b8,#49366d)",
-    "yandexLink": ""
-  },
-  {
-    "id": "большой_выход",
-    "title": "Большой выход",
-    "type": "Мультфильм",
-    "category": "Мультфильмы",
-    "kinopoiskId": null,
-    "meta": "2024 · 62 мин.",
-    "director": "Мерлин Кроссингэм",
-    "desc": "Новая приключенческая история студии Aardman, построенная на фирменном пластилиновом юморе и визуальных гэгов.",
-    "recommended": true,
-    "posterUrl": "",
-    "gradient": "linear-gradient(135deg,#d96b62,#7e302b)",
     "yandexLink": ""
   },
   {
@@ -1549,7 +1521,7 @@
     "director": "Мамору Хосода",
     "desc": "Старшеклассница получает способность перемещаться во времени и постепенно понимает цену вмешательства в чужую жизнь.",
     "recommended": true,
-    "posterUrl": "https://st.kp.yandex.net/images/film_273209.jpg",
+    "posterUrl": "https://avatars.mds.yandex.net/get-ott/236744/2a00000199be363ad5e19cddc39213e4c162/300x450",
     "gradient": "linear-gradient(135deg,#5c9aa3,#285d66)",
     "yandexLink": ""
   },
@@ -1563,7 +1535,7 @@
     "director": "Мамору Хосода",
     "desc": "Мама одна воспитывает двух необычных детей, которые унаследовали от отца способность превращаться в волков.",
     "recommended": true,
-    "posterUrl": "https://st.kp.yandex.net/images/film_655515.jpg",
+    "posterUrl": "https://avatars.mds.yandex.net/get-ott/236744/2a0000019ad07fd141d05151840cba90455f/300x450",
     "gradient": "linear-gradient(135deg,#d0a44b,#73531c)",
     "yandexLink": ""
   },
@@ -1577,7 +1549,7 @@
     "director": "Мамору Хосода",
     "desc": "Маленький Кун знакомится с таинственной девочкой Мирай из будущего и отправляется в путешествие по истории своей семьи.",
     "recommended": true,
-    "posterUrl": "",
+    "posterUrl": "https://avatars.mds.yandex.net/get-ott/13051577/2a000001985474735b7baf46cf8acd6abd54/300x450",
     "gradient": "linear-gradient(135deg,#4e88c7,#1f4f7f)",
     "yandexLink": ""
   },
@@ -1591,7 +1563,7 @@
     "director": "Макото Синкай",
     "desc": "Девушка отправляется в загадочный подземный мир, где сталкивается с древними тайнами, утратой и взрослением.",
     "recommended": true,
-    "posterUrl": "",
+    "posterUrl": "https://avatars.mds.yandex.net/get-ott/2385704/2a00000198527586fabeb12155b0098cf28f/300x450",
     "gradient": "linear-gradient(135deg,#d78d4d,#8f5322)",
     "yandexLink": ""
   },
@@ -1605,7 +1577,7 @@
     "director": "Макото Синкай",
     "desc": "Юноша из Токио знакомится с девушкой, способной управлять погодой, и оказывается втянут в необычную историю.",
     "recommended": true,
-    "posterUrl": "",
+    "posterUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/10671298/29fba789-ebae-411d-8bec-ab7d62203b89/300x450",
     "gradient": "linear-gradient(135deg,#67a85b,#2f6630)",
     "yandexLink": ""
   }
