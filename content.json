@@ -137,7 +137,7 @@
     "recommended": true,
     "posterUrl": "https://avatars.mds.yandex.net/get-ott/2385704/2a0000019852122baa9d446f91a5e1fad704/300x450",
     "gradient": "linear-gradient(135deg,#d78d4d,#8f5322)",
-    "yandexLink": ""
+    "yandexLink": "https://disk.yandex.ru/i/EK9oJbBl2Rl27A"
   },
   {
     "id": "сказка_сказок",
@@ -151,7 +151,7 @@
     "recommended": true,
     "posterUrl": "https://st.kp.yandex.net/images/film_43816.jpg",
     "gradient": "linear-gradient(135deg,#67a85b,#2f6630)",
-    "yandexLink": ""
+    "yandexLink": "https://disk.yandex.ru/i/1HF40Tl2YYo9tw"
   },
   {
     "id": "тайна_третьей_планеты",
@@ -263,11 +263,11 @@
     "recommended": true,
     "posterUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/5955b7d2-6f58-4334-b7e8-b90b45d4bbfc/300x450",
     "gradient": "linear-gradient(135deg,#8b72b8,#49366d)",
-    "yandexLink": ""
+    "yandexLink": "https://disk.yandex.ru/d/3htE7m3w8lULLw"
   },
   {
-    "id": "паровозик_из_ромашково",
-    "title": "Паровозик из Ромашково",
+    "id": "паровозик_из_ромашкова",
+    "title": "Паровозик из Ромашкова",
     "type": "Мультфильм",
     "category": "Мультфильмы",
     "kinopoiskId": 256527,
@@ -277,7 +277,7 @@
     "recommended": true,
     "posterUrl": "https://avatars.mds.yandex.net/get-ott/2385704/2a00000198513133c339b309785a689ca0a4/300x450",
     "gradient": "linear-gradient(135deg,#d96b62,#7e302b)",
-    "yandexLink": ""
+    "yandexLink": "https://disk.yandex.ru/i/2Uhib59DWtK4zA"
   },
   {
     "id": "умка",
@@ -333,7 +333,7 @@
     "recommended": true,
     "posterUrl": "https://avatars.mds.yandex.net/get-ott/1648503/2a00000198541fadc4c14ed310dc168810ba/300x450",
     "gradient": "linear-gradient(135deg,#d78d4d,#8f5322)",
-    "yandexLink": ""
+    "yandexLink": "https://disk.yandex.ru/i/TVSr0ySy1bP3lg"
   },
   {
     "id": "следствие_ведут_колобки",
@@ -361,7 +361,7 @@
     "recommended": true,
     "posterUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/10703959/d5a830cd-e916-449d-a15e-439fb8510cfb/300x450",
     "gradient": "linear-gradient(135deg,#8b72b8,#49366d)",
-    "yandexLink": ""
+    "yandexLink": "https://disk.yandex.ru/d/8EWbY-TUspIfSQ"
   },
   {
     "id": "бременские_музыканты",
@@ -403,7 +403,7 @@
     "recommended": true,
     "posterUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/1ea6db40-397c-4836-a069-7f21226ef6c6/300x450",
     "gradient": "linear-gradient(135deg,#d0a44b,#73531c)",
-    "yandexLink": ""
+    "yandexLink": "https://disk.yandex.ru/i/UTZ_5y2kscN4gA"
   },
   {
     "id": "варежка",
@@ -417,7 +417,7 @@
     "recommended": true,
     "posterUrl": "https://avatars.mds.yandex.net/get-ott/1672343/2a0000019850d95df8101c8154ac8ce267a1/300x450",
     "gradient": "linear-gradient(135deg,#4e88c7,#1f4f7f)",
-    "yandexLink": ""
+    "yandexLink": "https://disk.yandex.ru/i/0Dh4fzjLxvedRw"
   },
   {
     "id": "история_игрушек",
